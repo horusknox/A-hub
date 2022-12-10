@@ -274,10 +274,21 @@ h6,
     justify-content: space-between;
     overflow: hidden;
     padding: 0;
-    
+    filter: grayscale(100%);
 }
 .partners img{
     width: 120px;
     height: 120px;
     margin-left: 5%;
+}
+
+
+
+*::selection{
+    color: rgb(6, 6, 6);
+    background-color:#FB5B21;
+}
+
+.partners:hover{
+    filter:none;
 }

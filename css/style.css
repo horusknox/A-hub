@@ -244,3 +244,22 @@ h6,
     padding: 0;
 
 }
+.carouseltext{
+    z-index:2;
+    position: absolute;
+    align-self: center;
+    width: 55%;
+    left: 27%;   
+    display: flex;
+    align-content: center;
+    flex-direction: column;  
+}
+.carousel-inner{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    
+}
+.carousel-control-prev,.carousel-control-next{
+    z-index: 3;
+}

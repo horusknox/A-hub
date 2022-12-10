@@ -232,3 +232,15 @@ h6,
 .welcomehub{
     color: #515050;
 }
+
+.dropdown-item{
+        background-color:#222429;
+    color: #F4F5F8;
+}
+
+
+
+.dropdown-menu{
+    padding: 0;
+
+}

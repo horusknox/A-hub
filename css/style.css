@@ -263,3 +263,9 @@ h6,
 .carousel-control-prev,.carousel-control-next{
     z-index: 3;
 }
+
+
+
+.piclift{
+    z-index: 2;
+}

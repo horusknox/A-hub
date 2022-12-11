@@ -322,3 +322,22 @@ h6,
     width: 80VW;
     margin: auto;
 }
+.partner a img{
+    width: 100px;
+    height: 100px;
+    filter: grayscale(100%);  
+}
+.partner{
+    display:flex ;
+    width: 90vw;
+    justify-content: space-evenly;
+    background-color: rgba(87, 78, 78, 0);
+    padding: 100px;
+    margin:70px auto 70px auto ; 
+    border: 3px solid rgb(43, 208, 73); 
+    border-radius: 5px
+    
+}
+.partner a img:hover{
+    filter: none;
+}

@@ -308,3 +308,17 @@ h6,
 .green{
     color: rgb(38, 149, 56);
 }
+.lists li{
+    list-style: none;
+    letter-spacing: 2px;
+    margin-left: 5%;
+    margin-bottom: 30px;
+    color: antiquewhite;
+    font-size: x-large;
+    /* font-style: italic; */
+    font-family: fantasy;
+}
+.lists{
+    width: 80VW;
+    margin: auto;
+}

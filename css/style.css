@@ -285,8 +285,8 @@ h6,
 
 
 *::selection{
-    color: rgb(6, 6, 6);
-    background-color:#FB5B21;
+    color: rgb(255, 255, 255);
+    background-color:#000000;
 }
 
 .partners:hover{
@@ -296,4 +296,15 @@ h6,
 
 .orange{
     color: #FB5B21;
+}
+
+
+
+.blue{
+   color: rgb(3,91,217);
+}
+
+
+.green{
+    color: rgb(38, 149, 56);
 }

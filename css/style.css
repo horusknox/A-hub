@@ -316,7 +316,6 @@ h6,
 .partner a img {
     width: 10em;
     height: 10em;
-    filter: grayscale(100%);  
 }
 .partner a{
     padding: 1em;
